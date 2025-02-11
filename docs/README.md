@@ -25,11 +25,7 @@ biolink/
     └── python
         ├── biolink.py
         ├── main.py
-        ├── parser.py
-        └── __pycache__
-            ├── biolink.cpython-312.pyc
-            └── parser.cpython-312.pyc
-
+        └── parser.py
 ```
 
 ## Инструкции по установке и запуску
